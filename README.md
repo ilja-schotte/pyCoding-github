@@ -1,2 +1,2 @@
 # pyCoding-github
-different python3 project
+contains several python3 projects
